@@ -8,7 +8,7 @@
   "server": {
     "ip": "serve_24hrs.aternos.me",
     "port": 23172,
-    "version": 26.2,
+    "version": false,
     "try-creative": false
   },
   "position": {
