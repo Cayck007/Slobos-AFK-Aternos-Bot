@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "cayck006.aternos.me",
-    "port": 53607,
+    "ip": "serve_24hrs.aternos.me",
+    "port": 23172,
     "version": false,
     "try-creative": false
   },
